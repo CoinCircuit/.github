@@ -6,6 +6,7 @@ Seamless crypto payment processing for businesses. Accept Bitcoin, Ethereum, USD
 - Accept major cryptocurrencies (e.g., BTC, ETH, USDT) with real-time processing
 - Easy API integration and a hosted checkout to go live quickly
 - Global/fiat settlement with instant notifications and merchant-friendly tooling
+- **AI Agent** to automate routine operations (confirm on-chain transactions, verify payouts, create payment links) — available in the dashboard, on Telegram, and via API
 
 ## Documentation
 - Quick Start: https://coincircuit.io/docs/quick-start
@@ -16,6 +17,7 @@ Seamless crypto payment processing for businesses. Accept Bitcoin, Ethereum, USD
 - Crypto payment processing with real-time confirmation flows  
 - Hosted checkout + developer-friendly APIs  
 - Settlement and operational tooling designed for businesses  
+- **Conversational AI Agent** accessible from the dashboard and Telegram, with API endpoints for programmatic control  
 Learn more: https://coincircuit.io/features
 
 ## About CoinCircuit
